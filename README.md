@@ -15,7 +15,7 @@ Problem 4: Frequent monitoring of vital signs (body temperature, blood pressure)
 
 Personal Motivation: The motivation stems from a desire to enhance patient care while improving the efficiency of healthcare workers, especially in high-demand environments. The topic is important as it addresses both the growing demand for healthcare and the emotional well-being of patients.
 ![image](https://github.com/user-attachments/assets/f103daa5-7eee-4dc3-b5f1-9ebbde4499a9)
-<img src="https://www.intelycare.com/wp-content/uploads/2024/10/robot-nurse.jpg" width="300">
+#<img src="https://www.intelycare.com/wp-content/uploads/2024/10/robot-nurse.jpg" width="300">
 
 
 ## How is it used?
@@ -46,7 +46,6 @@ Predict potential health risks based on historical data.
 Enhance the robot's ability to move autonomously and navigate healthcare settings.
 
 ![Bot2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8QfYW-Re6kMIo_i9D5x4KUHVStLYWGuK4vg&s)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8QfYW-Re6kMIo_i9D5x4KUHVStLYWGuK4vg&s" width="300">
 
 
 Sources of data:
@@ -55,7 +54,7 @@ Cloud Storage: For real-time data updates and storage.
 Video/Audio Systems: For enabling communication with family members.
 
 ![Bot2](https://www.analyticssteps.com/backend/media/thumbnail/5811326/3832197_1654692488_What%20is%20Cloud%20Robotics%201Artboard%201.jpg)
-<img src="https://www.analyticssteps.com/backend/media/thumbnail/5811326/3832197_1654692488_What%20is%20Cloud%20Robotics%201Artboard%201.jpg" width="300">
+//<img src="https://www.analyticssteps.com/backend/media/thumbnail/5811326/3832197_1654692488_What%20is%20Cloud%20Robotics%201Artboard%201.jpg" width="300">
 
 ## Challenges
 
@@ -88,6 +87,6 @@ Collaboration with healthcare professionals to ensure the robot’s functionalit
 Inspiration for the robot comes from existing healthcare automation technologies, such as telemedicine and robotic assistance in surgeries.
 
 Special thanks to the creators of the IoT technologies that make real-time monitoring and data collection possible.
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://thumbs.dreamstime.com/b/hospital-ai-robot-staff-walking-behind-nurse-symbolizing-modern-healthcare-technology-to-help-patients-358904322.jpg) / [CC BY 2.0](https://thumbs.dreamstime.com/b/hospital-ai-robot-staff-walking-behind-nurse-symbolizing-modern-healthcare-technology-to-help-patients-358904322.jpg)
+  <br>For example: [https://thumbs.dreamstime.com/b/hospital-ai-robot-staff-walking-behind-nurse-symbolizing-modern-healthcare-technology-to-help-patients-358904322.jpg](https://thumbs.dreamstime.com/b/hospital-ai-robot-staff-walking-behind-nurse-symbolizing-modern-healthcare-technology-to-help-patients-358904322.jpg) / [CC BY 2.0](https://thumbs.dreamstime.com/b/hospital-ai-robot-staff-walking-behind-nurse-symbolizing-modern-healthcare-technology-to-help-patients-358904322.jpg)
 * etc
 
