@@ -15,7 +15,7 @@ Problem 4: Frequent monitoring of vital signs (body temperature, blood pressure)
 
 Personal Motivation: The motivation stems from a desire to enhance patient care while improving the efficiency of healthcare workers, especially in high-demand environments. The topic is important as it addresses both the growing demand for healthcare and the emotional well-being of patients.
 ![image](https://github.com/user-attachments/assets/f103daa5-7eee-4dc3-b5f1-9ebbde4499a9)
-<!<img src="https://www.intelycare.com/wp-content/uploads/2024/10/robot-nurse.jpg" width="300">>
+<!--<img src="https://www.intelycare.com/wp-content/uploads/2024/10/robot-nurse.jpg" width="300">-->
 
 
 ## How is it used?
@@ -33,8 +33,8 @@ Patients will feel more connected to their families and enjoy timely health chec
 Family members will appreciate the real-time communication with loved ones.
 ![Bot](https://cassette.sphdigital.com.sg/image/straitstimes/bf6fdb7ff25042d5a314788ad64730bd60523b7808629def7a20a9df7df181d8?w=860)
 
-<!<img src="https://cassette.sphdigital.com.sg/image/straitstimes/bf6fdb7ff25042d5a314788ad64730bd60523b7808629def7a20a9df7df181d8?w=860" width="300">>
-<!above image is commented>
+<!--<img src="https://cassette.sphdigital.com.sg/image/straitstimes/bf6fdb7ff25042d5a314788ad64730bd60523b7808629def7a20a9df7df181d8?w=860" width="300">-->
+<!--above image is commented-->
 
 
 
@@ -55,7 +55,7 @@ Cloud Storage: For real-time data updates and storage.
 Video/Audio Systems: For enabling communication with family members.
 
 ![Bot2](https://www.analyticssteps.com/backend/media/thumbnail/5811326/3832197_1654692488_What%20is%20Cloud%20Robotics%201Artboard%201.jpg)
-<!<img src="https://www.analyticssteps.com/backend/media/thumbnail/5811326/3832197_1654692488_What%20is%20Cloud%20Robotics%201Artboard%201.jpg" width="300">>
+<!--<img src="https://www.analyticssteps.com/backend/media/thumbnail/5811326/3832197_1654692488_What%20is%20Cloud%20Robotics%201Artboard%201.jpg" width="300">-->
 
 ## Challenges
 
