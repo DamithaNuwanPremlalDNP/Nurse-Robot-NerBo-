@@ -89,5 +89,7 @@ Inspiration for the robot comes from existing healthcare automation technologies
 
 Special thanks to the creators of the IoT technologies that make real-time monitoring and data collection possible.
   <br>For example: [https://thumbs.dreamstime.com/b/hospital-ai-robot-staff-walking-behind-nurse-symbolizing-modern-healthcare-technology-to-help-patients-358904322.jpg](https://thumbs.dreamstime.com/b/hospital-ai-robot-staff-walking-behind-nurse-symbolizing-modern-healthcare-technology-to-help-patients-358904322.jpg) / [CC BY 2.0](https://thumbs.dreamstime.com/b/hospital-ai-robot-staff-walking-behind-nurse-symbolizing-modern-healthcare-technology-to-help-patients-358904322.jpg)
+
+---Project Idea by: Damitha Nuwan Premalal---
 * etc
 
